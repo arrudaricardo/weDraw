@@ -8,19 +8,20 @@ The limit for drawing is going to be set by the user IP.
 
 ## Functionality & MVP
 
--[] Draw in the canvas
--[] Select brush size and color
--[] Limit strokes by IP
--[] Save and restrict IP for drawing
--[] Display past drawings
--[] A production README
+- [] Draw in the canvas
+- [] Select brush size and color
+- [] Limit strokes by IP
+- [] Save and restrict IP for drawing
+- [] Display past drawings
+- [] A production README
 
 Bonus Feacture:
--[] Send optional e-mail for the user after he finish the draw
+
+- [] Send optional e-mail for the user after he finish the draw
 
 ## Technologies
 
-Javascript, Web Canvas. Parsel JS
+Javascript, Web Canvas.
 
 ## Implementation Timeline
 
@@ -32,5 +33,6 @@ Day 3: Implement the restriction for the number of Stokes and general logic.
 
 Day 4: Implemente a gallery for past drawings.
 
-##WireFrame
+## WireFrame
+
 ![WireFrame](https://i.ibb.co/7WfZRfC/untitled-Window.png)
